@@ -1,2 +1,14 @@
-# yawpers-update
-this is just update checker for yawpers app
+<AppUpdater>
+  <update>
+    <latestVersion>15.0.1.935</latestVersion>
+    <url>https://github.com/yudi0812/yawpers-update/releases/download/15.0.1.935/Zom-15.0.1.935-zomrelease-release.apk</url>
+    <releaseNotes>
+	- "Zom Services" chat bot is now enabled
+	- Default server is now home.zom.im
+	- Adding friend now waits for them to confirm you before starting to chat
+	- Forwarding / sharing QR codes and invite links to friends on Zom works better
+	- new Buddhist sticker pack!
+	- and much much more...
+    </releaseNotes>
+  </update>
+</AppUpdater>
