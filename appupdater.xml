@@ -1,7 +1,7 @@
 <AppUpdater>
   <update>
-    <latestVersion>15.0.1.935</latestVersion>
-    <url>https://github.com/yudi0812/yawpers-update/releases/download/15.0.1.935/Zom-15.0.1.935-zomrelease-release.apk</url>
+    <latestVersion>1.0.1.000</latestVersion>
+    <url>https://github.com/yudi0812/yawpers-update/releases/download/1.0.1.000/Zom-1.0.1.000-zomrelease-release.apk</url>
     <releaseNotes>
 	- "Zom Services" chat bot is now enabled
 	- Default server is now home.zom.im
